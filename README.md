@@ -24,7 +24,7 @@ This is a simple Todo List application built with React and Vite.
 3. Install Node Modules: using " npm i " in your console in Todo-List folder
 4. 
 5. Start the development server : using "npm run dev "
-6. Open your browser and go to `http://localhost:3000` to view the app.
+6. Open your browser and go to `http://localhost:5173` to view the app.
 
 ## Usage
 
